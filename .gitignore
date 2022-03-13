@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+img/*.jpg
+img_out/*.jpg
+logs/*
+logs/!README.md
+model_data/*
+model_data/!voc_classes.txt
+model_data/!simhei.ttf
+VOCdevkit/VOC2007/Annotations/*.xml
+VOCdevkit/VOC2007/JPEGImages/*.jpg
+VOCdevkit/VOC2007/ImageSets/*.txt
+preDatasets/Data/*
+preDatasets/FinalDataset/*
