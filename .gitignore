@@ -1,7 +1,7 @@
 .idea/
 __pycache__/
-img/*.jpg
-img_out/*.jpg
+img/*
+img_out/*
 logs/*
 logs/!README.md
 model_data/*
