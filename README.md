@@ -176,3 +176,12 @@ img/street.jpg
 https://github.com/qqwweee/keras-yolo3/  
 https://github.com/Cartucho/mAP  
 https://github.com/Ma-Dan/keras-yolo4  
+
+
+
+## 模型表现100-epoch-03/14
+| 网络名称 | average F1 score | mAP 0.5:0.95  |
+| :-----: | :-----: | :------: |
+| YoloV4 | 0.3576 | 37.06 |
+| SSD | 0.3678 | 39.08 |
+| Faster-RCNN | 0.4532 | 50.46 |
