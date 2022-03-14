@@ -3,11 +3,10 @@ __pycache__/
 img/*
 img_out/*
 
-logs/!README.md
-logs/*
+logs/*.pth
 
-model_data/!voc_classes.txt
-model_data/!simhei.ttf
+!model_data/voc_classes.txt
+!model_data/simhei.ttf
 model_data/*
 
 VOCdevkit/VOC2007/Annotations/*.xml
